@@ -21,6 +21,5 @@ You must have node installed in order to run this code. [Expo](https://expo.io) 
 
 ## Submission
 1. Populate `discussion.md` with responses to any discussion questions
-2. Create a zip file with your code (it is not necessary to include `node_modules`)
-3. Submit your zip file and your personal details to the assignmend page [here](https://app.mightyacorn.io/patchrx/hiring-challenge#submit)
+2. Deliver your result by Github repository link.
 
